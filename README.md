@@ -1,7 +1,7 @@
 # Image Gallery  
-[Image Gallery Preview]([/images/ frontImage.png](https://github.com/ashokji0040/image-gallery/blob/main/images/frontImage.png))
+[Image Gallery Preview, first front page]([/images/ frontImage.png](https://github.com/ashokji0040/image-gallery/blob/main/images/frontImage.png))
 ) 
-[Image Gallery Preview]([/images/ gallery.png](https://github.com/ashokji0040/image-gallery/blob/main/images/gallery.png))  
+[Image Gallery Preview, second front page]([/images/ gallery.png](https://github.com/ashokji0040/image-gallery/blob/main/images/gallery.png))  
 
 ## Description  
 
