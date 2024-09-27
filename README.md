@@ -1,5 +1,6 @@
 # Image Gallery  
-
+[Image Gallery Preview](![Uploading image.png…]()
+) 
 [Image Gallery Preview]([/images/ gallery.png](https://github.com/ashokji0040/image-gallery/blob/main/images/gallery.png))  
 
 ## Description  
